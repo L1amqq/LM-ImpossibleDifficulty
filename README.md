@@ -37,8 +37,6 @@
 ./gradlew build
 ```
 
-Готовый JAR появится в `build/libs/`. Серверную проверку механик можно запустить командой `gradlew.bat runSmoke` (Linux / macOS: `./gradlew runSmoke`).
-
 ---
 
 **LIAM** · [YouTube](https://www.youtube.com/@liamkkd) · [Лицензия CC BY-NC-ND 4.0](license.txt)
