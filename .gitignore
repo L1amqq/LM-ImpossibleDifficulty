@@ -3,7 +3,6 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
-!/license.txt
 !/build.gradle
 !/settings.gradle
 !/gradle.properties

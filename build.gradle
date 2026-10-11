@@ -90,4 +90,3 @@ tasks.named('runSmoke').configure {
     }
 }
 tasks.named('test', Test).configure { failOnNoDiscoveredTests = false }
-tasks.named('jar').configure { from('license.txt') { rename { 'LICENSE.txt' } } }
