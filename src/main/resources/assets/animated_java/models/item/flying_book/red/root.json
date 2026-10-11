@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/flying_book/default/root",
+	"textures": {
+		"0": "minecraft:custom/flying_book/enchantment_book_page_red",
+		"1": "minecraft:custom/flying_book/magic_book_back_red",
+		"2": "minecraft:custom/flying_book/enchantment_book_page_red",
+		"3": "minecraft:custom/flying_book/magic_book_back_red"
+	}
+}

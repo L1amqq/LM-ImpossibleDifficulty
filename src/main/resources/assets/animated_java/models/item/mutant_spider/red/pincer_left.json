@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/mutant_spider/default/pincer_left",
+	"textures": {
+		"0": "minecraft:custom/spider/mutant_spider3_red"
+	}
+}

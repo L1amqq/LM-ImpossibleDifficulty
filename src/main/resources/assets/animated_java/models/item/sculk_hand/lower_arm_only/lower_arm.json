@@ -1,0 +1,6 @@
+{
+  "parent": "animated_java:item/sculk_hand/default/lower_arm",
+  "textures": {
+    "3": "animated_java:item/transparent"
+  }
+}

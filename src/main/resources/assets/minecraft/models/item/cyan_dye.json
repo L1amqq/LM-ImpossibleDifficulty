@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cyan_dye"
+  },
+  "animated_java": {
+    "walking_diamond": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+plugins {
+    id 'fabric-loom' version '1.15.5'
+    id 'maven-publish'
+}
+version = '1.5.24+1.21.11'
+group = 'com.liam.impossible'
+base { archivesName = 'LM-ImpossibleDifficulty' }
+repositories { mavenCentral(); maven { url 'https://maven.terraformersmc.com/releases' } }
+dependencies {
+    minecraft 'com.mojang:minecraft:1.21.11'
+    mappings loom.officialMojangMappings()
+    modImplementation 'net.fabricmc:fabric-loader:0.18.4'
+    modImplementation 'net.fabricmc.fabric-api:fabric-api:0.141.4+1.21.11'
+    modCompileOnly 'com.terraformersmc:modmenu:17.0.1'
+    modLocalRuntime 'com.terraformersmc:modmenu:17.0.1'
+}
+java {
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+    withSourcesJar()
+}
+tasks.withType(JavaCompile).configureEach { options.release = 21; options.encoding = 'UTF-8' }
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('fabric.mod.json') { expand version: project.version }
+}
+loom {
+    runs {
+        clientSmoke {
+            client()
+            name 'ModMenu client smoke test'
+            runDir 'work/client-smoke'
+            vmArg '-Dimpossible.clientSmoke=true'
+            programArgs '--width', '1000', '--height', '720'
+        }
+        smoke {
+            server()
+            name 'Native mechanics smoke test'
+            runDir 'work/smoke-server'
+            vmArg '-Dimpossible.smoke=true'
+            vmArg "-Dimpossible.smoke.resources=${file('src/main/resources').absolutePath}"
+            programArg 'nogui'
+        }
+    }
+}
+tasks.named('runClientSmoke').configure {
+    doFirst {
+        def directory=file('work/client-smoke');directory.mkdirs()
+        new File(directory,'options.txt').text='lang:ru_ru\nskipMultiplayerWarning:true\nonboardAccessibility:false\n'
+        copy {
+            from('work/smoke-server/native-smoke')
+            into('work/client-smoke/saves/dragon-death-visual')
+            exclude 'session.lock'
+        }
+    }
+    doLast {
+        def log=file('work/client-smoke/logs/latest.log').text
+        if(!log.contains('CLIENT_CONFIG_PASS:') || log.contains('CLIENT_CONFIG_FAIL'))
+            throw new GradleException('ModMenu client verification failed; inspect work/client-smoke/logs/latest.log')
+        if (!log.contains('CLIENT_BOSSBAR_PASS:'))
+            throw new GradleException('Dragon boss bar verification failed; inspect work/client-smoke/logs/latest.log')
+        if (!log.contains('CLIENT_DRAGON_DEATH_PASS:'))
+            throw new GradleException('Vanilla dragon death effects failed; inspect work/client-smoke/logs/latest.log')
+        if (!log.contains('CLIENT_DRAGON_DEATH_WORLD_PASS:'))
+            throw new GradleException('Dragon death did not render in the game world; inspect work/client-smoke/logs/latest.log')
+        if(log.contains('Missing textures in model impossible_difficulty:mob/') || log.contains('Missing block model: impossible_difficulty:mob/'))
+            throw new GradleException('Animal variant resources did not load correctly')
+    }
+}
+tasks.register('shaderCheck', JavaExec) {
+    dependsOn testClasses
+    classpath = sourceSets.test.runtimeClasspath
+    mainClass = 'com.liam.impossible.ShaderCheck'
+    args file('src/main/resources/assets/minecraft/shaders').absolutePath,
+        (findProperty('vanillaClientJar') ?: "${System.getProperty('user.home')}/.gradle/caches/fabric-loom/1.21.11/minecraft-client.jar")
+}
+tasks.named('runSmoke').configure {
+    doFirst {
+        def directory = file('work/smoke-server')
+        directory.mkdirs()
+        new File(directory, 'eula.txt').text = 'eula=true\n'
+        def properties = new File(directory, 'server.properties')
+        if (!properties.exists()) properties.text = 'online-mode=false\nserver-ip=127.0.0.1\nserver-port=25579\nlevel-name=native-smoke\nview-distance=2\nsimulation-distance=2\nspawn-protection=0\n'
+    }
+    doLast {
+        def log = file('work/smoke-server/logs/latest.log').text
+        if (!log.contains('NATIVE_SMOKE_PASS:') || log.contains('NATIVE_SMOKE_FAIL') || log.contains('Native mechanic failed:')) {
+            throw new GradleException('Native mechanics smoke verification failed; inspect work/smoke-server/logs/latest.log')
+        }
+    }
+}
+tasks.named('test', Test).configure { failOnNoDiscoveredTests = false }
+tasks.named('jar').configure { from('license.txt') { rename { 'LICENSE.txt' } } }

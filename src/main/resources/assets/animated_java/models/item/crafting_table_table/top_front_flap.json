@@ -1,0 +1,44 @@
+{
+	"textures": {
+		"1": "minecraft:custom/crafting_table_front"
+	},
+	"elements": [
+		{
+			"from": [7, 3, 7],
+			"to": [9, 8, 8],
+			"faces": {
+				"north": {
+					"uv": [9, 5, 7, 0],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [8, 5, 9, 10],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [7, 5, 9, 10],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [7, 5, 8, 10],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [7, 5, 9, 6],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [7, 9, 9, 10],
+					"rotation": 180,
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

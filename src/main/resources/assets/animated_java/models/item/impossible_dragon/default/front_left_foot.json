@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "minecraft:custom/impossible_dragon/impossible_dragon"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [3, 4, -4],
+			"to": [11, 8, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [19, 48, 6]
+			},
+			"faces": {
+				"north": {
+					"uv": [10, 7.5, 10.5, 7.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [9, 7.5, 10, 7.75],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11.5, 7.5, 12, 7.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [10.5, 7.5, 11.5, 7.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10.5, 7.5, 10, 6.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11, 6.5, 10.5, 7.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

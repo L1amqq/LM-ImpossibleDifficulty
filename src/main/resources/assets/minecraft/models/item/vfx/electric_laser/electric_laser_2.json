@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/vfx/electric_laser/electric_laser_2",
+		"particle": "custom/vfx/electric_laser/electric_laser_2"
+	},
+	"elements": [
+		{
+			"from": [7.8, 0, -8],
+			"to": [8.2, 16, 8],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 0]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}

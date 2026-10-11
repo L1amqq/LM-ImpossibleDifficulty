@@ -1,0 +1,31 @@
+{
+	"textures": {
+		"0": "minecraft:custom/impossible_dragon/jumppad_arrow"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [1, 2, 8],
+			"to": [15, 9, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 2, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 7],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 16, 7],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

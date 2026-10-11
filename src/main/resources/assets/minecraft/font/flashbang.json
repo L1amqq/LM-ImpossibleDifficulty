@@ -1,0 +1,12 @@
+{
+"providers":[{
+"type":"bitmap",
+"file":"minecraft:custom/flash.png",
+"ascent":250,
+"height":500,
+"chars":[
+"\uE002"
+]
+}
+]
+}

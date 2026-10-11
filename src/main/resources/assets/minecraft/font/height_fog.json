@@ -1,0 +1,12 @@
+{
+"providers":[{
+"type":"bitmap",
+"file":"minecraft:custom/impossible_dragon/height_fog.png",
+"ascent":250,
+"height":500,
+"chars":[
+"\uE002"
+]
+}
+]
+}

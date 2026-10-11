@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "ERE",
+    " E "
+  ],
+  "key": {
+    "E": "minecraft:ender_chest",
+    "R": "minecraft:recovery_compass"
+  },
+  "result": {
+    "id": "minecraft:warped_fungus_on_a_stick",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          6.0
+        ]
+      },
+      "minecraft:custom_data": "{TotemOfPreservation:1b}",
+      "minecraft:item_name": {
+        "text": "Totem of Preservation",
+        "color": "#46B6FB",
+        "bold": true
+      },
+      "minecraft:lore": [
+        {
+          "text": "\u2022 Right-click to cease",
+          "color": "white",
+          "italic": false
+        },
+        {
+          "text": "  losing items on death!",
+          "color": "white",
+          "italic": false
+        }
+      ]
+    }
+  }
+}

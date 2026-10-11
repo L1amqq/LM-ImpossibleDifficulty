@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/lime_dye"
+  },
+  "animated_java": {
+    "chest_mob": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "chest_mob_chest": [
+      13,
+      14
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+	"textures": {
+		"3": "minecraft:custom/chest_mob/muzzle_flash_safe",
+		"4": "minecraft:custom/chest_mob/muzzle_flash3_safe"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.6, 6.45, 7.6],
+			"to": [9.6, 9.45, 7.6],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [3.25, 0, 11.5, 8.25],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [11.5, 0, 3.25, 8.25],
+					"texture": "#4"
+				}
+			}
+		},
+		{
+			"from": [8, 4.55, 1],
+			"to": [8, 11.55, 8],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				}
+			}
+		},
+		{
+			"from": [8, 4.55, 1],
+			"to": [8, 11.55, 8],
+			"rotation": {
+				"angle": 45,
+				"axis": "z",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#3"
+				},
+				"south": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#3"
+				},
+				"up": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				},
+				"down": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#3"
+				}
+			}
+		}
+	]
+}

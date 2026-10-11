@@ -1,0 +1,52 @@
+{
+	"textures": {
+		"0": "minecraft:custom/diamond"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.825, 8.25, 7.7],
+			"to": [8.45, 12.25, 8.325],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [7.825, 8.25, 7.45]
+			},
+			"faces": {
+				"north": {
+					"uv": [2, 10, 3, 11],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2, 10, 3, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2, 10, 3, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 10, 3, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2, 10, 3, 11],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [2, 10, 3, 11],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

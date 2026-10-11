@@ -1,0 +1,1882 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/empty"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_1"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_2"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_3"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_4"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_5"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_6"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_7"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_8"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_9"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_10"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_11"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_12"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_13"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_shield/electric_shield_frame_14"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/magic_circles/circle_a"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/magic_circles/circle_glow"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_1"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_2"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_3"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_4"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_5"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_6"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_7"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_8"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_a/impact_a_9"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_1"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_2"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_3"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_4"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_5"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_6"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_7"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_8"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_9"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_10"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_11"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_12"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_13"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_b/impact_b_14"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/fireball"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_1"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_2"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_3"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_4"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_5"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_6"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_7"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_8"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_c/impact_c_9"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_1"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_2"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_3"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_4"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_5"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_6"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_7"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_8"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_9"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_10"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_11"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_12"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_13"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_d/impact_d_14"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_1"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_2"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_3"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_4"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_5"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_6"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/impact_e_7"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_1"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_2"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_3"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_4"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_5"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_6"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_e/shoot_7"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_1"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_2"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_3"
+        }
+      },
+      {
+        "threshold": 144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_4"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_5"
+        }
+      },
+      {
+        "threshold": 146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_6"
+        }
+      },
+      {
+        "threshold": 147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_f/impact_f_7"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_1"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_2"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_3"
+        }
+      },
+      {
+        "threshold": 154,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_4"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_5"
+        }
+      },
+      {
+        "threshold": 156,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_6"
+        }
+      },
+      {
+        "threshold": 157,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_7"
+        }
+      },
+      {
+        "threshold": 158,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_8"
+        }
+      },
+      {
+        "threshold": 159,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_9"
+        }
+      },
+      {
+        "threshold": 160,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_10"
+        }
+      },
+      {
+        "threshold": 161,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_11"
+        }
+      },
+      {
+        "threshold": 162,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_12"
+        }
+      },
+      {
+        "threshold": 163,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_13"
+        }
+      },
+      {
+        "threshold": 164,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_14"
+        }
+      },
+      {
+        "threshold": 165,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_15"
+        }
+      },
+      {
+        "threshold": 166,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_16"
+        }
+      },
+      {
+        "threshold": 167,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_17"
+        }
+      },
+      {
+        "threshold": 168,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_18"
+        }
+      },
+      {
+        "threshold": 169,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_19"
+        }
+      },
+      {
+        "threshold": 170,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_g/impact_g_20"
+        }
+      },
+      {
+        "threshold": 181,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_1"
+        }
+      },
+      {
+        "threshold": 182,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_2"
+        }
+      },
+      {
+        "threshold": 183,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_3"
+        }
+      },
+      {
+        "threshold": 184,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_4"
+        }
+      },
+      {
+        "threshold": 185,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_5"
+        }
+      },
+      {
+        "threshold": 186,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_6"
+        }
+      },
+      {
+        "threshold": 187,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_7"
+        }
+      },
+      {
+        "threshold": 188,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_8"
+        }
+      },
+      {
+        "threshold": 189,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_9"
+        }
+      },
+      {
+        "threshold": 190,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_10"
+        }
+      },
+      {
+        "threshold": 191,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_11"
+        }
+      },
+      {
+        "threshold": 192,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_12"
+        }
+      },
+      {
+        "threshold": 193,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_h/impact_h_13"
+        }
+      },
+      {
+        "threshold": 201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/misc/purple_flash"
+        }
+      },
+      {
+        "threshold": 211,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_i/impact_i_1"
+        }
+      },
+      {
+        "threshold": 212,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_i/impact_i_2"
+        }
+      },
+      {
+        "threshold": 213,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_i/impact_i_3"
+        }
+      },
+      {
+        "threshold": 214,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_i/impact_i_4"
+        }
+      },
+      {
+        "threshold": 221,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_1"
+        }
+      },
+      {
+        "threshold": 222,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_2"
+        }
+      },
+      {
+        "threshold": 223,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_3"
+        }
+      },
+      {
+        "threshold": 224,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_4"
+        }
+      },
+      {
+        "threshold": 225,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_5"
+        }
+      },
+      {
+        "threshold": 226,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_6"
+        }
+      },
+      {
+        "threshold": 227,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_7"
+        }
+      },
+      {
+        "threshold": 228,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/impact_j_8"
+        }
+      },
+      {
+        "threshold": 231,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_1"
+        }
+      },
+      {
+        "threshold": 232,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_2"
+        }
+      },
+      {
+        "threshold": 233,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_3"
+        }
+      },
+      {
+        "threshold": 234,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_4"
+        }
+      },
+      {
+        "threshold": 235,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_5"
+        }
+      },
+      {
+        "threshold": 236,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_6"
+        }
+      },
+      {
+        "threshold": 237,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_7"
+        }
+      },
+      {
+        "threshold": 238,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_k/impact_k_8"
+        }
+      },
+      {
+        "threshold": 241,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_1"
+        }
+      },
+      {
+        "threshold": 242,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_2"
+        }
+      },
+      {
+        "threshold": 243,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_3"
+        }
+      },
+      {
+        "threshold": 244,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_4"
+        }
+      },
+      {
+        "threshold": 245,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_5"
+        }
+      },
+      {
+        "threshold": 246,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_6"
+        }
+      },
+      {
+        "threshold": 247,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_7"
+        }
+      },
+      {
+        "threshold": 248,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_j/shoot_8"
+        }
+      },
+      {
+        "threshold": 251,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/misc/target_indicator_purple_glow_1"
+        }
+      },
+      {
+        "threshold": 252,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/misc/target_indicator_purple_glow_2"
+        }
+      },
+      {
+        "threshold": 253,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/misc/target_indicator_arrows"
+        }
+      },
+      {
+        "threshold": 254,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/forcefield_gradient"
+        }
+      },
+      {
+        "threshold": 255,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/forcefield_gradient2"
+        }
+      },
+      {
+        "threshold": 256,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/forcefield_gradient3"
+        }
+      },
+      {
+        "threshold": 257,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/forcefield_gradient4"
+        }
+      },
+      {
+        "threshold": 258,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/forcefield_gradient5"
+        }
+      },
+      {
+        "threshold": 259,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/misc/purple_flash_behind"
+        }
+      },
+      {
+        "threshold": 281,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_1"
+        }
+      },
+      {
+        "threshold": 282,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_2"
+        }
+      },
+      {
+        "threshold": 283,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_3"
+        }
+      },
+      {
+        "threshold": 284,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_4"
+        }
+      },
+      {
+        "threshold": 285,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_5"
+        }
+      },
+      {
+        "threshold": 286,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_6"
+        }
+      },
+      {
+        "threshold": 287,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_7"
+        }
+      },
+      {
+        "threshold": 288,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_8"
+        }
+      },
+      {
+        "threshold": 289,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_9"
+        }
+      },
+      {
+        "threshold": 290,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_10"
+        }
+      },
+      {
+        "threshold": 291,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_11"
+        }
+      },
+      {
+        "threshold": 292,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_12"
+        }
+      },
+      {
+        "threshold": 293,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_13"
+        }
+      },
+      {
+        "threshold": 294,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_14"
+        }
+      },
+      {
+        "threshold": 295,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_laser/electric_laser_15"
+        }
+      },
+      {
+        "threshold": 311,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_1"
+        }
+      },
+      {
+        "threshold": 312,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_2"
+        }
+      },
+      {
+        "threshold": 313,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_3"
+        }
+      },
+      {
+        "threshold": 314,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_4"
+        }
+      },
+      {
+        "threshold": 315,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_5"
+        }
+      },
+      {
+        "threshold": 316,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_6"
+        }
+      },
+      {
+        "threshold": 317,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_7"
+        }
+      },
+      {
+        "threshold": 318,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_8"
+        }
+      },
+      {
+        "threshold": 319,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_9"
+        }
+      },
+      {
+        "threshold": 320,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_10"
+        }
+      },
+      {
+        "threshold": 321,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_11"
+        }
+      },
+      {
+        "threshold": 322,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_12"
+        }
+      },
+      {
+        "threshold": 323,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_13"
+        }
+      },
+      {
+        "threshold": 324,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_14"
+        }
+      },
+      {
+        "threshold": 325,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_15"
+        }
+      },
+      {
+        "threshold": 326,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_16"
+        }
+      },
+      {
+        "threshold": 327,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_17"
+        }
+      },
+      {
+        "threshold": 328,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_18"
+        }
+      },
+      {
+        "threshold": 329,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_19"
+        }
+      },
+      {
+        "threshold": 330,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_20"
+        }
+      },
+      {
+        "threshold": 331,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_21"
+        }
+      },
+      {
+        "threshold": 332,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_22"
+        }
+      },
+      {
+        "threshold": 333,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_23"
+        }
+      },
+      {
+        "threshold": 334,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_24"
+        }
+      },
+      {
+        "threshold": 335,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_25"
+        }
+      },
+      {
+        "threshold": 336,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/electric_circle/electric_circle_26"
+        }
+      },
+      {
+        "threshold": 351,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_1"
+        }
+      },
+      {
+        "threshold": 352,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_2"
+        }
+      },
+      {
+        "threshold": 353,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_3"
+        }
+      },
+      {
+        "threshold": 354,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_4"
+        }
+      },
+      {
+        "threshold": 355,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_5"
+        }
+      },
+      {
+        "threshold": 356,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_6"
+        }
+      },
+      {
+        "threshold": 357,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_7"
+        }
+      },
+      {
+        "threshold": 358,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_8"
+        }
+      },
+      {
+        "threshold": 359,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_9"
+        }
+      },
+      {
+        "threshold": 360,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_10"
+        }
+      },
+      {
+        "threshold": 361,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_11"
+        }
+      },
+      {
+        "threshold": 362,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_12"
+        }
+      },
+      {
+        "threshold": 363,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_l/impact_l_13"
+        }
+      },
+      {
+        "threshold": 370,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/red_arrow_up"
+        }
+      },
+      {
+        "threshold": 371,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/red_arrow_down"
+        }
+      },
+      {
+        "threshold": 372,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/red_arrow_left"
+        }
+      },
+      {
+        "threshold": 373,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/red_arrow_right"
+        }
+      },
+      {
+        "threshold": 374,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/crystal_tail_outline"
+        }
+      },
+      {
+        "threshold": 375,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/sleeping_z"
+        }
+      },
+      {
+        "threshold": 381,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_1"
+        }
+      },
+      {
+        "threshold": 382,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_2"
+        }
+      },
+      {
+        "threshold": 383,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_3"
+        }
+      },
+      {
+        "threshold": 384,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_4"
+        }
+      },
+      {
+        "threshold": 385,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_5"
+        }
+      },
+      {
+        "threshold": 386,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_6"
+        }
+      },
+      {
+        "threshold": 387,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_7"
+        }
+      },
+      {
+        "threshold": 388,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_8"
+        }
+      },
+      {
+        "threshold": 389,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_9"
+        }
+      },
+      {
+        "threshold": 390,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_n/impact_n_10"
+        }
+      },
+      {
+        "threshold": 391,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_1"
+        }
+      },
+      {
+        "threshold": 392,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_2"
+        }
+      },
+      {
+        "threshold": 393,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_3"
+        }
+      },
+      {
+        "threshold": 394,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_4"
+        }
+      },
+      {
+        "threshold": 395,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_5"
+        }
+      },
+      {
+        "threshold": 396,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_6"
+        }
+      },
+      {
+        "threshold": 397,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_7"
+        }
+      },
+      {
+        "threshold": 398,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_8"
+        }
+      },
+      {
+        "threshold": 399,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_9"
+        }
+      },
+      {
+        "threshold": 400,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_10"
+        }
+      },
+      {
+        "threshold": 401,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_11"
+        }
+      },
+      {
+        "threshold": 402,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_12"
+        }
+      },
+      {
+        "threshold": 403,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_13"
+        }
+      },
+      {
+        "threshold": 404,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_14"
+        }
+      },
+      {
+        "threshold": 405,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_15"
+        }
+      },
+      {
+        "threshold": 406,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_16"
+        }
+      },
+      {
+        "threshold": 407,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_m/impact_m_17"
+        }
+      },
+      {
+        "threshold": 411,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_1"
+        }
+      },
+      {
+        "threshold": 412,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_2"
+        }
+      },
+      {
+        "threshold": 413,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_3"
+        }
+      },
+      {
+        "threshold": 414,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_4"
+        }
+      },
+      {
+        "threshold": 415,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_5"
+        }
+      },
+      {
+        "threshold": 416,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_6"
+        }
+      },
+      {
+        "threshold": 417,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_7"
+        }
+      },
+      {
+        "threshold": 418,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_o/impact_o_8"
+        }
+      },
+      {
+        "threshold": 421,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_1"
+        }
+      },
+      {
+        "threshold": 422,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_2"
+        }
+      },
+      {
+        "threshold": 423,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_3"
+        }
+      },
+      {
+        "threshold": 424,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_4"
+        }
+      },
+      {
+        "threshold": 425,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_5"
+        }
+      },
+      {
+        "threshold": 426,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_6"
+        }
+      },
+      {
+        "threshold": 427,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_7"
+        }
+      },
+      {
+        "threshold": 428,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_8"
+        }
+      },
+      {
+        "threshold": 429,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/impact_p/impact_p_9"
+        }
+      },
+      {
+        "threshold": 441,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b1"
+        }
+      },
+      {
+        "threshold": 442,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b2"
+        }
+      },
+      {
+        "threshold": 443,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b3"
+        }
+      },
+      {
+        "threshold": 444,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b4"
+        }
+      },
+      {
+        "threshold": 445,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b5"
+        }
+      },
+      {
+        "threshold": 446,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/vfx/spinny_portal/vfx-b6"
+        }
+      },
+      {
+        "threshold": 451,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/impossible_dragon/jumppad_ring"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/white_stained_glass"
+    }
+  }
+}

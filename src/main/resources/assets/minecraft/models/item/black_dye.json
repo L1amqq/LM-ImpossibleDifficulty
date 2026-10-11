@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/black_dye"
+  },
+  "animated_java": {
+    "rigs": {
+      "spinning_portal": {
+        "used_ids": [
+          2
+        ]
+      }
+    }
+  }
+}

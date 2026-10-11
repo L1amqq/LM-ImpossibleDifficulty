@@ -1,0 +1,26 @@
+{
+	"textures": {
+		"0": "minecraft:custom/crafting_table_top"
+	},
+	"elements": [
+		{
+			"from": [6, 8, 7],
+			"to": [8, 8, 9],
+			"faces": {
+				"up": {
+					"uv": [10, 10, 12, 12],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [10, 12, 12, 10],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

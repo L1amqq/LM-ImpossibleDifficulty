@@ -1,0 +1,42 @@
+{
+	"textures": {
+		"0": "minecraft:custom/lava_wave_v4"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-0.91429, 8, 5.94286],
+			"to": [16.91429, 8, 29.94286],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 3.25, 0],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0, 4.375, 0],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [0, 0, 3.25, 0],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 4.375, 0],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.25, 4.375, 0, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [6.5, 0, 3.25, 4.375],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

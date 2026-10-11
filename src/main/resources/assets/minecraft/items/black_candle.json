@@ -1,0 +1,293 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:empty"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/lower_arm"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/lower_arm_2"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/hand"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_lower_5"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_upper_5"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_lower_4"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_upper_4"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_lower_3"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_upper_3"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_lower_2"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_upper_2"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_lower_1"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/default/finger_upper_1"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_upper_5"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_lower_5"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_upper_4"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_lower_4"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_upper_3"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_lower_3"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_upper_2"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_lower_2"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_upper_1"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/finger_lower_1"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/hand"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/lower_arm_2"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/hand_only/lower_arm"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_upper_5"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_lower_5"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_upper_4"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_lower_4"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_upper_3"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_lower_3"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_upper_2"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_lower_2"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_upper_1"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/finger_lower_1"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/hand"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/lower_arm_2"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/sculk_hand/lower_arm_only/lower_arm"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/black_candle"
+    }
+  }
+}

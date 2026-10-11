@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/impossible_dragon/default/stun_vfx_right_head",
+	"textures": {
+		"4": "minecraft:custom/impossible_dragon/stunned_star",
+		"5": "minecraft:custom/impossible_dragon/stunned_line"
+	}
+}

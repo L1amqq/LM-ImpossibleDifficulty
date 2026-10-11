@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"9": "minecraft:custom/rocket_launcher_arm"
+	},
+	"elements": [
+		{
+			"from": [8.5, -3, 7],
+			"to": [9.5, 9, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [7.5, 11, 11]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.5, 1.75, 8.75, 4.75],
+					"texture": "#9"
+				},
+				"east": {
+					"uv": [7, 1, 7.5, 4],
+					"texture": "#9"
+				},
+				"south": {
+					"uv": [3, 8.5, 3.25, 11.5],
+					"texture": "#9"
+				},
+				"west": {
+					"uv": [2, 7, 2.5, 10],
+					"texture": "#9"
+				},
+				"up": {
+					"uv": [9.25, 9.5, 9, 9],
+					"texture": "#9"
+				},
+				"down": {
+					"uv": [9.5, 2.25, 9.25, 2.75],
+					"texture": "#9"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

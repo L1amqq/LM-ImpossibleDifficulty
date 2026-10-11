@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "custom/impossible_dragon/colors",
+		"particle": "custom/impossible_dragon/forcefield_gradient"
+	},
+	"elements": [
+		{
+			"from": [-15.5, 7, 6.5],
+			"to": [31.5, 10, 9.5],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, -11, 8]},
+			"faces": {
+				"north": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"},
+				"east": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"},
+				"south": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"},
+				"west": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"},
+				"up": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"},
+				"down": {"uv": [8.375, 1, 9, 0.53125], "texture": "#5"}
+			}
+		}
+	]
+}

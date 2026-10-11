@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"0": "minecraft:custom/cow"
+	},
+	"elements": [
+		{
+			"from": [6, 4, -4],
+			"to": [10, 8, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [12, -18, -1]
+			},
+			"faces": {
+				"north": {
+					"uv": [12, 8.5, 11, 9.5],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [10, 9.5, 11, 12.5],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12, 8.5, 11, 7.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.5, 10.5, 3.5, 13.5],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 6.5, 11, 9.5],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [1.5, 10.5, 2.5, 13.5],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

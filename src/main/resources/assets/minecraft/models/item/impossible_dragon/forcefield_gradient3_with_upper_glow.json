@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/impossible_dragon/forcefield_gradient",
+		"5": "custom/impossible_dragon/colors",
+		"particle": "custom/impossible_dragon/forcefield_gradient"
+	},
+	"elements": [
+		{
+			"from": [-16, 9, 7.75],
+			"to": [32, 29, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 9, 8]},
+			"faces": {
+				"north": {"uv": [15.375, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [15.375, 0, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 8, 7.75],
+			"to": [32, 9, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, -11, 8]},
+			"faces": {
+				"north": {"uv": [0.375, 1, 1, 1.53125], "texture": "#5"},
+				"south": {"uv": [0.375, 1, 1, 1.53125], "texture": "#5"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

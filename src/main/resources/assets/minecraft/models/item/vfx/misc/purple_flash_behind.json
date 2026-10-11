@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/vfx/misc/purple_flash",
+		"particle": "custom/vfx/misc/purple_flash"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 11],
+			"to": [16, 16, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 11]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 5],
+			"to": [16, 16, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 5]},
+			"faces": {
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	]
+}

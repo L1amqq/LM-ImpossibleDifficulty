@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "minecraft:custom/vampire"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.2375, 2.225, 4.475],
+			"to": [9.7875, 7.975, 8.025],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [6.1375, -9.025, -1.25]
+			},
+			"faces": {
+				"north": {
+					"uv": [9, 14.5, 10, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [8, 14.5, 9, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11, 14.5, 12, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [10, 14.5, 11, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 13, 9, 12],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11, 12, 10, 13],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

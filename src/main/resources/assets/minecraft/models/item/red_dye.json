@@ -1,0 +1,40 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/red_dye"
+  },
+  "animated_java": {
+    "rigs": {
+      "lava_wave": {
+        "used_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      }
+    }
+  },
+  "aj": {
+    "includedRigs": {
+      "cf40661b-7231-a19c-ee60-c5eb1ad931cf": {
+        "name": "mcyum_dance",
+        "usedIDs": [
+          [
+            1,
+            10
+          ]
+        ]
+      },
+      "3eaab2b6-a49f-9410-4306-5c3db2a33c7d": {
+        "name": "buff_villager",
+        "usedIDs": [
+          [
+            11,
+            20
+          ]
+        ]
+      }
+    }
+  }
+}

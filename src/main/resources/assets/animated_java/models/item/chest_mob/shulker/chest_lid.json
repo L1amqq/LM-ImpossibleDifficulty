@@ -1,0 +1,12 @@
+{
+	"parent": "animated_java:item/chest_mob/default/chest_lid",
+	"textures": {
+		"0": "minecraft:custom/chest_mob/gun",
+		"1": "animated_java:item/transparent",
+		"2": "minecraft:custom/chest_mob/shulker_mob",
+		"3": "minecraft:custom/chest_mob/muzzle_flash_safe",
+		"4": "minecraft:custom/chest_mob/muzzle_flash3_safe",
+		"5": "minecraft:custom/chest_mob/water_gun",
+		"6": "minecraft:custom/chest_mob/muzzle_flash2_safe"
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"8": "minecraft:custom/crafting_table_inside"
+	},
+	"elements": [
+		{
+			"from": [7.7, 8, 7.7],
+			"to": [8.3, 9, 8.25],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [2.5, 6, 7.5]
+			},
+			"faces": {
+				"north": {
+					"uv": [10.5, 5, 11, 6.5],
+					"texture": "#8"
+				},
+				"east": {
+					"uv": [10.5, 6.5, 11, 8],
+					"texture": "#8"
+				},
+				"south": {
+					"uv": [10.5, 9, 11, 10.5],
+					"texture": "#8"
+				},
+				"west": {
+					"uv": [9.5, 10.5, 10, 12],
+					"texture": "#8"
+				},
+				"up": {
+					"uv": [12, 10, 11.5, 9.5],
+					"texture": "#8"
+				},
+				"down": {
+					"uv": [12, 10, 11.5, 10.5],
+					"texture": "#8"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

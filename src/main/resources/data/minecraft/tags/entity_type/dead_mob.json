@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:zombie_horse",
+    "minecraft:zombified_piglin",
+    "minecraft:wither_skeleton",
+    "minecraft:skeleton",
+    "minecraft:husk",
+    "minecraft:stray"
+  ]
+}

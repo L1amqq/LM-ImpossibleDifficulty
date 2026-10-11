@@ -1,0 +1,12 @@
+{
+"providers":[{
+"type":"bitmap",
+"file":"minecraft:custom/impossible_dragon/bossbar_2.png",
+"ascent":10,
+"height":50,
+"chars":[
+"\uFFF1"
+]
+}
+]
+}

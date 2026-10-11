@@ -1,0 +1,12 @@
+{
+	"parent": "animated_java:item/chest_mob/default/hand_left",
+	"textures": {
+		"0": "animated_java:item/transparent",
+		"1": "minecraft:custom/chest_mob/normal",
+		"2": "animated_java:item/transparent",
+		"3": "animated_java:item/transparent",
+		"4": "animated_java:item/transparent",
+		"5": "animated_java:item/transparent",
+		"6": "animated_java:item/transparent"
+	}
+}

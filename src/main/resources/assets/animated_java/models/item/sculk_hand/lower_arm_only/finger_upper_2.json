@@ -1,0 +1,6 @@
+{
+  "parent": "animated_java:item/sculk_hand/default/finger_upper_2",
+  "textures": {
+    "3": "animated_java:item/transparent"
+  }
+}

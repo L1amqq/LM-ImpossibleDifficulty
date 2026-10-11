@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "custom/sculk_vine2",
+		"particle": "custom/sculk_vine"
+	},
+	"elements": [
+		{
+			"name": "vine",
+			"from": [0, 8, 0],
+			"to": [16, 8, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "rotation": 90, "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 16], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [0, 0, 0, 16], "rotation": 90, "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 16], "rotation": 90, "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "vine",
+			"from": [8, 0, 0],
+			"to": [8, 16, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "rotation": 180, "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 16], "rotation": 180, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
+			}
+		}
+	]
+}

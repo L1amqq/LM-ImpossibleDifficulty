@@ -1,0 +1,72 @@
+{
+	"textures": {
+		"0": "minecraft:custom/impossible_dragon/impossible_dragon"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, 8, 8.77419],
+			"to": [29.67742, 8, 30.45161],
+			"faces": {
+				"north": {
+					"uv": [0, 9, 3.5, 9],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [-3.5, 9, 0, 9],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [7, 9, 10.5, 9],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [3.5, 9, 7, 9],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [3.5, 9, 0, 5.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.5, 5.5, 0, 9],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [8, 6.45161, 6.45161],
+			"to": [29.67742, 9.54839, 9.54839],
+			"faces": {
+				"north": {
+					"uv": [7.5, 6, 11, 6.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [7, 6, 7.5, 6.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [11.5, 6, 15, 6.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [11, 6, 11.5, 6.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [11, 6, 7.5, 5.5],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [14.5, 5.5, 11, 6],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

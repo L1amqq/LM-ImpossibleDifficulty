@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "custom/impossible_dragon/colors",
+		"particle": "custom/impossible_dragon/forcefield_gradient"
+	},
+	"elements": [
+		{
+			"from": [-16, 8, 7.75],
+			"to": [32, 9, 8.25],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, -11, 8]},
+			"faces": {
+				"north": {"uv": [0.375, 1, 1, 1.53125], "texture": "#5"},
+				"south": {"uv": [0.375, 1, 1, 1.53125], "texture": "#5"}
+			}
+		}
+	]
+}

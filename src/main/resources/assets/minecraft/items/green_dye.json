@@ -1,0 +1,1075 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:empty"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/spinning_portal/portal"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/lava_wave/default/wave_lowest"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/lava_wave/default/wave_lower"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/lava_wave/default/wave_upper"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/lava_wave/default/ground"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/body"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/left_arm"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/right_arm"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/head"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/right_leg"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/default/left_leg"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/left_arm"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/right_arm"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/head"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/body"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/right_leg"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/baby_golem/red/left_leg"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/leg4"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/leg3"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/head"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/tit1"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/tit2"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/tit3"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/tit4"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/body"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/leg1"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/matrix_cow/leg2"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/chest"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/chest_lid"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/hand_left"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/hand_right"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/water_gun"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/head"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/eyebrow_left"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/eyebrow_right"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/muzzle_flash_frame1"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/default/muzzle_flash_frame2"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/chest_lid"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/leg1"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/leg2"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/tail"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/leg3"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/leg4"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/head"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/bouncing_pig/body"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot2"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot4"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/sawblade"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm3"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm2"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm1"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/sawblade2"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm6"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm5"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm4"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/arm_holder"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot8"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot6"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/gear_pivot3"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_a1_1"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_a1_2"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_a1_3"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_a1_4"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_b1"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_b2"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_b3"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_slide_b4"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_b2_2"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_b2_1"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_c3"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_c4"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_frame1"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a2_3"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a2_2"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a2_1"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_frame2"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_b1_2"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_b1_1"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_c1"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_c2"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_frame3"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a1_3"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a1_2"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_a1_1"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_flap_frame4"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_top"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_front_flap"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_front"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_right_flap"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_right"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_back_flap"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_back"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_left_flap"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top_left"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/top"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_front_flap2"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_front_flap"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_front"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_right_flap2"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_right_flap"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_right"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_back_flap2"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_back_flap"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_back"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_left_flap2"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_left_flap"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_left"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston5"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston6"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston7"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston8"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston2"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston3"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/piston4"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom_decoration"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/bottom"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_table/root"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_rocket_launcher/rocketlauncher"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_rocket_launcher/rocket_launcher_arm5"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_rocket_launcher/rocket_launcher_arm4"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_rocket_launcher/rocket_launcher_arm3"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/crafting_table_rocket_launcher/rocket_launcher_arm2"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/chest"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/hand_left"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/water_gun"
+        }
+      },
+      {
+        "threshold": 138,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/hand_right"
+        }
+      },
+      {
+        "threshold": 139,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/eyebrow_left"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/eyebrow_right"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/head"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/muzzle_flash_frame1"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/shulker/muzzle_flash_frame2"
+        }
+      },
+      {
+        "threshold": 144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/chest_lid"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/chest"
+        }
+      },
+      {
+        "threshold": 146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/hand_left"
+        }
+      },
+      {
+        "threshold": 147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/water_gun"
+        }
+      },
+      {
+        "threshold": 148,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/hand_right"
+        }
+      },
+      {
+        "threshold": 149,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/eyebrow_left"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/eyebrow_right"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/head"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/muzzle_flash_frame1"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/chest_mob/chest/muzzle_flash_frame2"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/green_dye"
+    }
+  }
+}

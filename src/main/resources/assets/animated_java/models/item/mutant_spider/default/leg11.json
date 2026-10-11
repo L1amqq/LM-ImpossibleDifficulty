@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"0": "minecraft:custom/spider/mutant_spider3"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-7, 7, 7],
+			"to": [9, 9, 9],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [12, -1, 4]
+			},
+			"faces": {
+				"north": {
+					"uv": [0.25, 0.25, 2.25, 0.5],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [0, 0.25, 0.25, 0.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.5, 0.25, 4.5, 0.5],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2.25, 0.25, 2.5, 0.5],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.25, 0.25, 0.25, 0],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4.25, 0, 2.25, 0.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

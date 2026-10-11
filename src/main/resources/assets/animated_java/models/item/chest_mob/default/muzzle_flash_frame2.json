@@ -1,0 +1,120 @@
+{
+	"textures": {
+		"6": "minecraft:custom/chest_mob/muzzle_flash2_safe"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [6.6, 6.45, 7.6],
+			"to": [8.1, 9.45, 7.6],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8.25, 16],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [8.25, 0, 0, 16],
+					"texture": "#6"
+				}
+			}
+		},
+		{
+			"from": [8.1, 6.45, 7.6],
+			"to": [9.6, 9.45, 7.6],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [8.25, 16, 0, 0],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 16, 8.25, 0],
+					"texture": "#6"
+				}
+			}
+		},
+		{
+			"from": [8, 4.55, 1],
+			"to": [8, 11.55, 8],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				}
+			}
+		},
+		{
+			"from": [8, 4.55, 1],
+			"to": [8, 11.55, 8],
+			"rotation": {
+				"angle": 45,
+				"axis": "z",
+				"origin": [8, 7.95, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [0, 0, 0, 1.75],
+					"texture": "#6"
+				}
+			}
+		}
+	]
+}

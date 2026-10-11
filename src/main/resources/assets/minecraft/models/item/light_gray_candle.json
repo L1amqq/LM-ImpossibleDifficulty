@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/light_gray_candle"
+  },
+  "animated_java": {
+    "land_shark": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

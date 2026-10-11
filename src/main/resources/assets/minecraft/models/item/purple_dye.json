@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/purple_dye"
+  },
+  "animated_java": {
+    "rigs": {
+      "portal_tentacle_a": {
+        "used_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    }
+  }
+}

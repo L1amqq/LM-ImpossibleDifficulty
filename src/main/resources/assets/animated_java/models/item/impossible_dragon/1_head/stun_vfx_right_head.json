@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/impossible_dragon/default/stun_vfx_right_head",
+	"textures": {
+		"0": "minecraft:custom/impossible_dragon/transparent",
+		"4": "minecraft:custom/impossible_dragon/transparent",
+		"5": "minecraft:custom/impossible_dragon/transparent"
+	}
+}

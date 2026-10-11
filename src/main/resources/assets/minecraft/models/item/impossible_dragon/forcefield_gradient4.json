@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "custom/vfx/impact_h/impact_h_3",
+		"particle": "custom/impossible_dragon/forcefield_gradient"
+	},
+	"elements": [
+		{
+			"from": [6, 6.75, 7.25],
+			"to": [7, 8, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [5.58333, 13.11111, 10.81944, 0], "texture": "#4"},
+				"south": {"uv": [5.58333, 13.11111, 10.81944, 0], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

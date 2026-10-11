@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "custom/impossible_dragon/forcefield_glint"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.75],
+			"to": [16, 16, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 7.75], "texture": "#3"},
+				"south": {"uv": [0, 8, 16, 7.75], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

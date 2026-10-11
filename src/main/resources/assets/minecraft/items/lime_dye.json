@@ -1,0 +1,98 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:empty"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:empty"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/lime_dye"
+    }
+  }
+}

@@ -1,0 +1,1679 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:empty"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/body"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_wing"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_wing_tip"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_wing"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_wing_tip"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_left_leg"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_left_shin"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_left_foot"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_right_leg"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_right_shin"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/front_right_foot"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_left_leg"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_left_shin"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_left_foot"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_right_leg"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_right_shin"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/back_right_foot"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_middle_1"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_middle_2"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_middle_3"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_middle_4"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_middle_5"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/head_middle"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/middle_feathers_left1"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/middle_feathers_left2"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/middle_feathers_right1"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/middle_feathers_right2"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/jaw_middle"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/stun_vfx_middle_head"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_right_1"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_right_2"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_right_3"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_right_4"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_right_5"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/head_right"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_feathers_left1"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_feathers_left2"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_feathers_right1"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/right_feathers_right2"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/jaw_right"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/stun_vfx_right_head"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_left_1"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_left_2"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_left_3"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_left_4"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/spine_left_5"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/head_left"
+        }
+      },
+      {
+        "threshold": 49,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_feathers_left1"
+        }
+      },
+      {
+        "threshold": 50,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_feather_left2"
+        }
+      },
+      {
+        "threshold": 51,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_feathers_right1"
+        }
+      },
+      {
+        "threshold": 52,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/left_feathers_right2"
+        }
+      },
+      {
+        "threshold": 53,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/jaw_left"
+        }
+      },
+      {
+        "threshold": 54,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/stun_vfx_left_head"
+        }
+      },
+      {
+        "threshold": 55,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail"
+        }
+      },
+      {
+        "threshold": 56,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail2"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail3"
+        }
+      },
+      {
+        "threshold": 58,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail4"
+        }
+      },
+      {
+        "threshold": 59,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail5"
+        }
+      },
+      {
+        "threshold": 60,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail6"
+        }
+      },
+      {
+        "threshold": 61,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail7"
+        }
+      },
+      {
+        "threshold": 62,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail8"
+        }
+      },
+      {
+        "threshold": 63,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail9"
+        }
+      },
+      {
+        "threshold": 64,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail10"
+        }
+      },
+      {
+        "threshold": 65,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail11"
+        }
+      },
+      {
+        "threshold": 66,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail12"
+        }
+      },
+      {
+        "threshold": 67,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail_end"
+        }
+      },
+      {
+        "threshold": 68,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/default/tail_end_hitbox"
+        }
+      },
+      {
+        "threshold": 69,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_wing_tip"
+        }
+      },
+      {
+        "threshold": 70,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_wing"
+        }
+      },
+      {
+        "threshold": 71,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_wing_tip"
+        }
+      },
+      {
+        "threshold": 72,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_wing"
+        }
+      },
+      {
+        "threshold": 73,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_left_foot"
+        }
+      },
+      {
+        "threshold": 74,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_left_shin"
+        }
+      },
+      {
+        "threshold": 75,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_left_leg"
+        }
+      },
+      {
+        "threshold": 76,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_right_foot"
+        }
+      },
+      {
+        "threshold": 77,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_right_shin"
+        }
+      },
+      {
+        "threshold": 78,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/front_right_leg"
+        }
+      },
+      {
+        "threshold": 79,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_left_foot"
+        }
+      },
+      {
+        "threshold": 80,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_left_shin"
+        }
+      },
+      {
+        "threshold": 81,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_left_leg"
+        }
+      },
+      {
+        "threshold": 82,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_right_foot"
+        }
+      },
+      {
+        "threshold": 83,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_right_shin"
+        }
+      },
+      {
+        "threshold": 84,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/back_right_leg"
+        }
+      },
+      {
+        "threshold": 85,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/middle_feathers_left1"
+        }
+      },
+      {
+        "threshold": 86,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/middle_feathers_left2"
+        }
+      },
+      {
+        "threshold": 87,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/middle_feathers_right1"
+        }
+      },
+      {
+        "threshold": 88,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/middle_feathers_right2"
+        }
+      },
+      {
+        "threshold": 89,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/jaw_middle"
+        }
+      },
+      {
+        "threshold": 90,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/head_middle"
+        }
+      },
+      {
+        "threshold": 91,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_middle_5"
+        }
+      },
+      {
+        "threshold": 92,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_middle_4"
+        }
+      },
+      {
+        "threshold": 93,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_middle_3"
+        }
+      },
+      {
+        "threshold": 94,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_middle_2"
+        }
+      },
+      {
+        "threshold": 95,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_middle_1"
+        }
+      },
+      {
+        "threshold": 96,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_feathers_left1"
+        }
+      },
+      {
+        "threshold": 97,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_feathers_left2"
+        }
+      },
+      {
+        "threshold": 98,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_feathers_right1"
+        }
+      },
+      {
+        "threshold": 99,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/right_feathers_right2"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/jaw_right"
+        }
+      },
+      {
+        "threshold": 101,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/head_right"
+        }
+      },
+      {
+        "threshold": 102,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_right_5"
+        }
+      },
+      {
+        "threshold": 103,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_right_4"
+        }
+      },
+      {
+        "threshold": 104,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_right_3"
+        }
+      },
+      {
+        "threshold": 105,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_right_2"
+        }
+      },
+      {
+        "threshold": 106,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_right_1"
+        }
+      },
+      {
+        "threshold": 107,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_feathers_left1"
+        }
+      },
+      {
+        "threshold": 108,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_feather_left2"
+        }
+      },
+      {
+        "threshold": 109,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_feathers_right1"
+        }
+      },
+      {
+        "threshold": 110,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/left_feathers_right2"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/jaw_left"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/head_left"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_left_5"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_left_4"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_left_3"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_left_2"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/spine_left_1"
+        }
+      },
+      {
+        "threshold": 118,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail_end_hitbox"
+        }
+      },
+      {
+        "threshold": 119,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail12"
+        }
+      },
+      {
+        "threshold": 120,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail11"
+        }
+      },
+      {
+        "threshold": 121,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail10"
+        }
+      },
+      {
+        "threshold": 122,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail9"
+        }
+      },
+      {
+        "threshold": 123,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail8"
+        }
+      },
+      {
+        "threshold": 124,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail7"
+        }
+      },
+      {
+        "threshold": 125,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail6"
+        }
+      },
+      {
+        "threshold": 126,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail5"
+        }
+      },
+      {
+        "threshold": 127,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail4"
+        }
+      },
+      {
+        "threshold": 128,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail3"
+        }
+      },
+      {
+        "threshold": 129,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail2"
+        }
+      },
+      {
+        "threshold": 130,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/tail"
+        }
+      },
+      {
+        "threshold": 131,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/red/body"
+        }
+      },
+      {
+        "threshold": 132,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_wing_tip"
+        }
+      },
+      {
+        "threshold": 133,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_wing"
+        }
+      },
+      {
+        "threshold": 134,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_wing_tip"
+        }
+      },
+      {
+        "threshold": 135,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_wing"
+        }
+      },
+      {
+        "threshold": 136,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_left_foot"
+        }
+      },
+      {
+        "threshold": 137,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_left_shin"
+        }
+      },
+      {
+        "threshold": 138,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_left_leg"
+        }
+      },
+      {
+        "threshold": 139,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_right_foot"
+        }
+      },
+      {
+        "threshold": 140,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_right_shin"
+        }
+      },
+      {
+        "threshold": 141,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/front_right_leg"
+        }
+      },
+      {
+        "threshold": 142,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_left_foot"
+        }
+      },
+      {
+        "threshold": 143,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_left_shin"
+        }
+      },
+      {
+        "threshold": 144,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_left_leg"
+        }
+      },
+      {
+        "threshold": 145,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_right_foot"
+        }
+      },
+      {
+        "threshold": 146,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_right_shin"
+        }
+      },
+      {
+        "threshold": 147,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/back_right_leg"
+        }
+      },
+      {
+        "threshold": 148,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/middle_feathers_left1"
+        }
+      },
+      {
+        "threshold": 149,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/middle_feathers_left2"
+        }
+      },
+      {
+        "threshold": 150,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/middle_feathers_right1"
+        }
+      },
+      {
+        "threshold": 151,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/middle_feathers_right2"
+        }
+      },
+      {
+        "threshold": 152,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/jaw_middle"
+        }
+      },
+      {
+        "threshold": 153,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/head_middle"
+        }
+      },
+      {
+        "threshold": 154,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_middle_5"
+        }
+      },
+      {
+        "threshold": 155,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_middle_4"
+        }
+      },
+      {
+        "threshold": 156,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_middle_3"
+        }
+      },
+      {
+        "threshold": 157,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_middle_2"
+        }
+      },
+      {
+        "threshold": 158,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_middle_1"
+        }
+      },
+      {
+        "threshold": 159,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_feathers_left1"
+        }
+      },
+      {
+        "threshold": 160,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_feathers_left2"
+        }
+      },
+      {
+        "threshold": 161,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_feathers_right1"
+        }
+      },
+      {
+        "threshold": 162,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/right_feathers_right2"
+        }
+      },
+      {
+        "threshold": 163,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/jaw_right"
+        }
+      },
+      {
+        "threshold": 164,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/head_right"
+        }
+      },
+      {
+        "threshold": 165,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_right_5"
+        }
+      },
+      {
+        "threshold": 166,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_right_4"
+        }
+      },
+      {
+        "threshold": 167,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_right_3"
+        }
+      },
+      {
+        "threshold": 168,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_right_2"
+        }
+      },
+      {
+        "threshold": 169,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_right_1"
+        }
+      },
+      {
+        "threshold": 170,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_feathers_left1"
+        }
+      },
+      {
+        "threshold": 171,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_feather_left2"
+        }
+      },
+      {
+        "threshold": 172,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_feathers_right1"
+        }
+      },
+      {
+        "threshold": 173,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/left_feathers_right2"
+        }
+      },
+      {
+        "threshold": 174,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/jaw_left"
+        }
+      },
+      {
+        "threshold": 175,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/head_left"
+        }
+      },
+      {
+        "threshold": 176,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_left_5"
+        }
+      },
+      {
+        "threshold": 177,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_left_4"
+        }
+      },
+      {
+        "threshold": 178,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_left_3"
+        }
+      },
+      {
+        "threshold": 179,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_left_2"
+        }
+      },
+      {
+        "threshold": 180,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/spine_left_1"
+        }
+      },
+      {
+        "threshold": 181,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail_end_hitbox"
+        }
+      },
+      {
+        "threshold": 182,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail12"
+        }
+      },
+      {
+        "threshold": 183,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail11"
+        }
+      },
+      {
+        "threshold": 184,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail10"
+        }
+      },
+      {
+        "threshold": 185,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail9"
+        }
+      },
+      {
+        "threshold": 186,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail8"
+        }
+      },
+      {
+        "threshold": 187,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail7"
+        }
+      },
+      {
+        "threshold": 188,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail6"
+        }
+      },
+      {
+        "threshold": 189,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail5"
+        }
+      },
+      {
+        "threshold": 190,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail4"
+        }
+      },
+      {
+        "threshold": 191,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail3"
+        }
+      },
+      {
+        "threshold": 192,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail2"
+        }
+      },
+      {
+        "threshold": 193,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/tail"
+        }
+      },
+      {
+        "threshold": 194,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/half_red/body"
+        }
+      },
+      {
+        "threshold": 195,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/tail_disabled/tail_end"
+        }
+      },
+      {
+        "threshold": 196,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/middle_feathers_left1"
+        }
+      },
+      {
+        "threshold": 197,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/middle_feathers_left2"
+        }
+      },
+      {
+        "threshold": 198,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/middle_feathers_right1"
+        }
+      },
+      {
+        "threshold": 199,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/middle_feathers_right2"
+        }
+      },
+      {
+        "threshold": 200,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/jaw_middle"
+        }
+      },
+      {
+        "threshold": 201,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/stun_vfx_middle_head"
+        }
+      },
+      {
+        "threshold": 202,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/head_middle"
+        }
+      },
+      {
+        "threshold": 203,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/spine_middle_5"
+        }
+      },
+      {
+        "threshold": 204,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/spine_middle_4"
+        }
+      },
+      {
+        "threshold": 205,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/spine_middle_3"
+        }
+      },
+      {
+        "threshold": 206,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/spine_middle_2"
+        }
+      },
+      {
+        "threshold": 207,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/2_heads/spine_middle_1"
+        }
+      },
+      {
+        "threshold": 208,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/tail_enabled/tail_end"
+        }
+      },
+      {
+        "threshold": 209,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/right_feathers_left1"
+        }
+      },
+      {
+        "threshold": 210,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/right_feathers_left2"
+        }
+      },
+      {
+        "threshold": 211,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/right_feathers_right1"
+        }
+      },
+      {
+        "threshold": 212,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/right_feathers_right2"
+        }
+      },
+      {
+        "threshold": 213,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/jaw_right"
+        }
+      },
+      {
+        "threshold": 214,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/stun_vfx_right_head"
+        }
+      },
+      {
+        "threshold": 215,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/head_right"
+        }
+      },
+      {
+        "threshold": 216,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_right_5"
+        }
+      },
+      {
+        "threshold": 217,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_right_4"
+        }
+      },
+      {
+        "threshold": 218,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_right_3"
+        }
+      },
+      {
+        "threshold": 219,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_right_2"
+        }
+      },
+      {
+        "threshold": 220,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_right_1"
+        }
+      },
+      {
+        "threshold": 221,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/left_feathers_left1"
+        }
+      },
+      {
+        "threshold": 222,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/left_feather_left2"
+        }
+      },
+      {
+        "threshold": 223,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/left_feathers_right1"
+        }
+      },
+      {
+        "threshold": 224,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/left_feathers_right2"
+        }
+      },
+      {
+        "threshold": 225,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/jaw_left"
+        }
+      },
+      {
+        "threshold": 226,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/stun_vfx_left_head"
+        }
+      },
+      {
+        "threshold": 227,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/head_left"
+        }
+      },
+      {
+        "threshold": 228,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_left_5"
+        }
+      },
+      {
+        "threshold": 229,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_left_4"
+        }
+      },
+      {
+        "threshold": 230,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_left_3"
+        }
+      },
+      {
+        "threshold": 231,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_left_2"
+        }
+      },
+      {
+        "threshold": 232,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/1_head/spine_left_1"
+        }
+      },
+      {
+        "threshold": 233,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/stunned/stun_vfx_middle_head"
+        }
+      },
+      {
+        "threshold": 234,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/stunned/stun_vfx_right_head"
+        }
+      },
+      {
+        "threshold": 235,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/stunned/stun_vfx_left_head"
+        }
+      },
+      {
+        "threshold": 236,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/eyes_closed/head_middle"
+        }
+      },
+      {
+        "threshold": 237,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/eyes_closed/head_right"
+        }
+      },
+      {
+        "threshold": 238,
+        "model": {
+          "type": "minecraft:model",
+          "model": "animated_java:item/impossible_dragon/eyes_closed/head_left"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/tripwire_hook"
+    }
+  }
+}

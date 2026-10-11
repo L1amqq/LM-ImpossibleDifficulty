@@ -1,0 +1,51 @@
+{
+	"textures": {
+		"0": "minecraft:custom/portal2",
+		"1": "minecraft:custom/portal"
+	},
+	"elements": [
+		{
+			"from": [7.999, 7.91, 7.91],
+			"to": [7.999, 8.09, 8.09],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.0015, 7.92, 8]
+			},
+			"faces": {
+				"east": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#0"
+				}
+			}
+		},
+		{
+			"from": [8.0015, 7.91, 7.91],
+			"to": [8.0015, 8.09, 8.09],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8.0015, 7.92, 8]
+			},
+			"faces": {
+				"east": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

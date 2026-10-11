@@ -1,0 +1,13 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/magenta_dye"
+  },
+  "animated_java": {
+    "jumppad": [
+      1,
+      2,
+      3
+    ]
+  }
+}

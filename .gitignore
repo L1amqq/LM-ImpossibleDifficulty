@@ -1,0 +1,20 @@
+# Publish only mod sources, resources and build files.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/license.txt
+!/build.gradle
+!/settings.gradle
+!/gradle.properties
+!/gradlew
+!/gradlew.bat
+!/gradle/
+!/src/
+
+# Local outputs and editor files inside source/build directories.
+**/.gradle/
+**/build/
+**/.idea/
+**/*.iml
+**/.DS_Store

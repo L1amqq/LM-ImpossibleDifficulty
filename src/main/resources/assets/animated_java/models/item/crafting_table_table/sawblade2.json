@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"4": "minecraft:custom/stonecutter_saw"
+	},
+	"elements": [
+		{
+			"from": [-2, 8, -2],
+			"to": [18, 8, 18],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-23, -3, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 16, 0],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [0, 0, 16, 0],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [0, 0, 16, 0],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [0, 0, 16, 0],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [0, 16, 16, 0],
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

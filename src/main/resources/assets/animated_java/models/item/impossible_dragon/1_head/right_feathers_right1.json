@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/impossible_dragon/default/right_feathers_right1",
+	"textures": {
+		"0": "minecraft:custom/impossible_dragon/transparent",
+		"4": "minecraft:custom/impossible_dragon/transparent",
+		"5": "minecraft:custom/impossible_dragon/transparent"
+	}
+}

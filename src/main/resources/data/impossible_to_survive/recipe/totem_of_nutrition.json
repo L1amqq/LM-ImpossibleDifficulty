@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "ERE",
+    " E "
+  ],
+  "key": {
+    "E": "minecraft:golden_apple",
+    "R": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:warped_fungus_on_a_stick",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          7.0
+        ]
+      },
+      "minecraft:custom_data": "{TotemOfNutrition:1b}",
+      "minecraft:item_name": {
+        "text": "Totem of Nutrition",
+        "color": "gold",
+        "bold": true
+      },
+      "minecraft:lore": [
+        {
+          "text": "\u2022 Right-click to gain",
+          "color": "white",
+          "italic": false
+        },
+        {
+          "text": "  infinite saturation!",
+          "color": "white",
+          "italic": false
+        }
+      ]
+    }
+  }
+}

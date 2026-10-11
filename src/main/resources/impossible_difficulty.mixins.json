@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "com.liam.impossible.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityRenderDispatcherAccessor", "EndermanCameraMixin", "EndermanMouseMixin", "EnderDragonDeathRaysInvoker"],
+  "mixins": ["PlayerHurtEntityTriggerMixin", "EnchantedItemTriggerMixin", "ServerLevelMixin", "LivingEntityMixin", "ChestBlockEntityAccessor", "ChestBlockEntityMixin", "ContainerOpenersCounterMixin", "DisplayAccessor", "DragonInteractionMixin", "DragonPlayerAttackMixin"],
+  "injectors": {"defaultRequire": 1}
+}

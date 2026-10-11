@@ -1,0 +1,45 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "custom",
+      "prefix": "custom/"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/cow/temperate_cow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/cow/warm_cow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/cow/cold_cow"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/pig/temperate_pig"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/pig/warm_pig"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/pig/cold_pig"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chicken/temperate_chicken"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chicken/warm_chicken"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/chicken/cold_chicken"
+    }
+  ]
+}

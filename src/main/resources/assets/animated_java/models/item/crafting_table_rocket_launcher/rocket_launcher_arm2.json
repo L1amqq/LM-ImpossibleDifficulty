@@ -1,0 +1,82 @@
+{
+	"textures": {
+		"9": "minecraft:custom/rocket_launcher_arm"
+	},
+	"elements": [
+		{
+			"from": [11, 8, 4],
+			"to": [12, 11, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 22, 13]
+			},
+			"faces": {
+				"north": {
+					"uv": [4.25, 9, 4.5, 9.75],
+					"texture": "#9"
+				},
+				"east": {
+					"uv": [6.5, 4, 8.5, 4.75],
+					"texture": "#9"
+				},
+				"south": {
+					"uv": [9, 5.75, 9.25, 6.5],
+					"texture": "#9"
+				},
+				"west": {
+					"uv": [6.5, 4.75, 8.5, 5.5],
+					"texture": "#9"
+				},
+				"up": {
+					"uv": [8.75, 9.25, 8.5, 7.25],
+					"texture": "#9"
+				},
+				"down": {
+					"uv": [7.75, 8.5, 7.5, 10.5],
+					"texture": "#9"
+				}
+			}
+		},
+		{
+			"from": [6, 8, 4],
+			"to": [7, 11, 12],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 22, 13]
+			},
+			"faces": {
+				"north": {
+					"uv": [9, 6.5, 9.25, 7.25],
+					"texture": "#9"
+				},
+				"east": {
+					"uv": [5, 6.5, 7, 7.25],
+					"texture": "#9"
+				},
+				"south": {
+					"uv": [9, 7.25, 9.25, 8],
+					"texture": "#9"
+				},
+				"west": {
+					"uv": [0, 7, 2, 7.75],
+					"texture": "#9"
+				},
+				"up": {
+					"uv": [8, 10.5, 7.75, 8.5],
+					"texture": "#9"
+				},
+				"down": {
+					"uv": [0.25, 8.75, 0, 10.75],
+					"texture": "#9"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

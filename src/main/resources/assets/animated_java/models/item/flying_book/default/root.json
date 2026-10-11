@@ -1,0 +1,83 @@
+{
+	"textures": {
+		"0": "minecraft:custom/flying_book/enchantment_book_page",
+		"1": "minecraft:custom/flying_book/magic_book_back"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7, 7.65, 2.75],
+			"to": [9, 8.5, 13.05],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-8, 7.5, -8]
+			},
+			"faces": {
+				"north": {
+					"uv": [5.5, 2.5, 6, 2.75],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [5.5, 0, 8.625, 0.25],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [5.5, 2.75, 6, 3],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [5.5, 0.25, 8.625, 0.5],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [5.5, 3.125, 5, 0],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [5.5, 3.25, 5, 6.375],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [7.5, 8.4, 3.05],
+			"to": [8.5, 8.75, 12.75],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [-8, 8.25, -8]
+			},
+			"faces": {
+				"north": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [4.75, 0.25, 5.875, 1.25],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

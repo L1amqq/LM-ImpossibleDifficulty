@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "impossible_difficulty",
+  "version": "${version}",
+  "name": "LM-ImpossibleDifficulty",
+  "description": "Новые опасности, необычные мобы и невозможная сложность. Автор: LIAM.",
+  "authors": [
+    "LIAM"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/@liamkkd"
+  },
+  "license": "CC-BY-NC-ND-4.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.liam.impossible.ImpossibleDifficulty"
+    ],
+    "client": [
+      "com.liam.impossible.client.ImpossibleDifficultyClient"
+    ],
+    "modmenu": [
+      "com.liam.impossible.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "impossible_difficulty.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": ">=17.0.1"
+  }
+}
