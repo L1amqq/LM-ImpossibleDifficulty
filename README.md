@@ -35,4 +35,4 @@
 
 ---
 
-**LIAM** · [YouTube](https://www.youtube.com/@liamkkd) · [Лицензия CC BY-NC-ND 4.0](license.txt)
+**LIAM** · [YouTube](https://www.youtube.com/@liamkkd)
